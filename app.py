@@ -1,6 +1,6 @@
 
 from config import *
-# from producer import send_data
+from producer import send_data
 
 
 
